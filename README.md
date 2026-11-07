@@ -1,52 +1,32 @@
-# HooBank - Modern Banking Website
+# HooBank: Fintech Landing Page
 
-![HooBank](https://sjc.microlink.io/VtUsl6KOGCR4hUgYIaXskryXIM8KzYuBsCFgGQKU9jdp2Kd5OBAXCnRju2AYej-R242jO5p9Y69x9w7q9LhtDA.jpeg)
+A modern fintech landing page with a dark theme, gradient accents and 3D visuals. Built with React, Vite and Tailwind CSS.
 
-A modern banking website showcasing next-generation payment solutions. Built with React and Tailwind CSS, featuring a sleek dark theme design with interactive elements and stunning 3D visuals.
+**[Live demo](https://hoo-bank-rouge-five.vercel.app)**
 
-## 🌟 Features
+![HooBank preview](docs/preview.png)
 
-- **Modern UI/UX**: Sleek dark theme with teal accents and gradient effects
-- **Responsive Design**: Fully responsive layout across all devices
-- **Interactive Elements**: Dynamic navigation and smooth scrolling
-- **3D Visuals**: Credit card and robotic hand renders for enhanced visual appeal
-- **Performance Optimized**: Fast loading times and optimized assets
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 🚀 Technologies Used
+## Highlights
 
-- React.js
-- Tailwind CSS
-- Vite
+- Hero, stats, features, billing, testimonials and CTA sections
+- Fully responsive with a mobile navigation drawer
+- Reusable, data-driven components, with content kept in a constants file
+- Custom Tailwind theme (colours, fonts, breakpoints)
 
-## 🎯 Current Features
+## Getting started
 
-- Home page with hero section
-- Features showcase
-- Product information
-- Client testimonials
-- Promotional offers (20% discount for 1-month accounts)
-- Statistics dashboard
-- Navigation menu
+```bash
+git clone https://github.com/srg201/HooBank.git
+cd HooBank
+npm install
+npm run dev
+```
 
-## 🔧 Configuration
+## Author
 
-The project uses Vite for development and building. Configuration can be modified in:
-- `vite.config.js` - Vite configuration
-- `tailwind.config.js` - Tailwind CSS configuration
-- `index.html` - Entry point
+**Siarhei Beliakou** · Full Stack Developer (React, Next.js, NestJS)
+[GitHub](https://github.com/srg201) · [LinkedIn](https://linkedin.com/in/sergey-belyakov-1b7641349) · belyakov329@gmail.com
 
-## 📱 Responsive Design
-
-The website is fully responsive with breakpoints for:
-- Mobile devices
-- Tablets
-- Desktop screens
-- Large displays
-
-## 🔗 Live Demo
-
-[View Live Demo](https://hoo-bank-rouge-five.vercel.app/#clients)
-
----
-
-Made with ❤️
+Open to freelance and full-time work.
